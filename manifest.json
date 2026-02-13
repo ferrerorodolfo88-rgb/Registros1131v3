@@ -1,0 +1,29 @@
+{
+  "name": "Inspección 1131 - Registro Documental",
+  "short_name": "Insp. 1131",
+  "description": "Sistema de registro documental para Inspección 1131",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#004582",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><circle cx='96' cy='96' r='96' fill='%23004582'/><text x='96' y='130' font-family='Arial' font-size='80' fill='white' text-anchor='middle' font-weight='bold'>C</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><circle cx='256' cy='256' r='256' fill='%23004582'/><text x='256' y='350' font-family='Arial' font-size='220' fill='white' text-anchor='middle' font-weight='bold'>C</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity", "business"],
+  "lang": "es-AR",
+  "dir": "ltr",
+  "scope": "/",
+  "prefer_related_applications": false
+}
